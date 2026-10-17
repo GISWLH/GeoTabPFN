@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![GeoTabPFN — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # GeoTabPFN
 
 基于TabPFN（Transformer-based Neural Network）的地理数据分析项目，用于预测和分析降水量（Precipitation）数据。
@@ -69,4 +73,21 @@ GeoTabPFN/
 ## 注意事项
 
 - 确保模型文件 `tabpfn-v2-regressor.ckpt` 位于正确的目录
-- 数据文件需放置在 `data` 目录下 
+- 数据文件需放置在 `data` 目录下
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:result -->
+## Saved project output
+
+![Existing TabPFN precipitation fit: training and test scatter plots.](assets/readme/result.png)
+
+Existing TabPFN precipitation fit: training and test scatter plots.
+
+Historical project output, retained from the existing working files; it was not rerun for this documentation update.
+
+Source: `code.ipynb [zero-based cell 0, output 1]`.
+<!-- /readme-visual-refresh:result -->
